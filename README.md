@@ -20,6 +20,7 @@ O ambiente foi configurado para alternar entre os melhores motores de IA do merc
 ---
 
 ## 🛠️ 3. Modos de Interação: O Diferencial Estratégico
+
 O domínio das ferramentas foi dividido em três pilares fundamentais de autonomia:
 
 | 🔹 Modo | 🎯 Função | 🚀 Aplicação Prática |
