@@ -1,4 +1,4 @@
-# 🤖 Agentic Development: Cursor & AI Orquestração
+## 🤖 Agentic Development: Cursor & AI Orquestração
 
 > **Status do Projeto:** Concluído ✅  
 > **Nível:** Avançado / DIO Challenge
