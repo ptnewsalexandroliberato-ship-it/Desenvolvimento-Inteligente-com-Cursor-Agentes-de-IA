@@ -45,7 +45,7 @@ Para manter o padrão **Clean Code**, estruturamos prompts versionados:
 
 ---
 
-> 💡 **Insight Intelectual:**
+> 💡 **Insight:**
 > *"O futuro do desenvolvimento não está em apenas saber codar, mas em saber **orquestrar**. Ao dominar Agentes de IA, elevamos o papel do desenvolvedor para um nível estratégico, onde a criatividade humana guia a eficiência algorítmica."*
 
 ---
